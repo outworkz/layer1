@@ -1,0 +1,1 @@
+Cấu Hình: http://username:password@ip:port or socks5://username:password@ip:port
