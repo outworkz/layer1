@@ -57,7 +57,7 @@
     ```
 4. Run the script:
     ```sh
-    npm run start
+    node main_obf.js
     ```
 
 
